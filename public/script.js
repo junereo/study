@@ -15,6 +15,7 @@ const create = () =>{
     const headerText = document.querySelector(".header-text");
 
     headerText.textContent = "재미 있는 git 시간"
+    headerText.style.color = "red";
 }
 
 
